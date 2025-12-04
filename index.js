@@ -7,7 +7,7 @@ grist.ready({
 });
 
 function generateUrl({ record, mappings, tokenInfo }) {
-  if (record[mappings.Attachment === null]) {
+  if (record[mappings.Attachment] === null) {
     return "";
   }
   const att_id = record[mappings.Attachment][0];
