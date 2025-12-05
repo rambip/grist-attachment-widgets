@@ -26,7 +26,9 @@ To install a custom widget, go read [the grist documentation on widget](https://
 
 This widget shows a view of all attachments in your column.
 
-Use this link: `https://rambip.github.io/grist-attachment-widgets/viewer`
+Use this link: 
+
+`https://rambip.github.io/grist-attachment-widgets/viewer`
 
 
 
@@ -35,7 +37,9 @@ Use this link: `https://rambip.github.io/grist-attachment-widgets/viewer`
 
 This widget generates links on the fly using the grist API. You can then use these links in a markdown or html template for exemple.
 
-Use this link: `https://rambip.github.io/grist-attachment-widgets/url-generator`
+Use this link: 
+
+`https://rambip.github.io/grist-attachment-widgets/url-generator`
 
 ⚠️ The generated links are temporary. You can't use them in external websites, see the next section for permanent links.
 

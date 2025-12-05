@@ -24,14 +24,18 @@ Pour installer un de ces widgets, vous pouvez vous référer à [la documentatio
 
 Ce widget affiche tous les documents dans la colonne séléctionnée:
 
-Lien à copier-coller: `https://rambip.github.io/grist-attachment-widgets/viewer`
+Lien à copier-coller: 
+
+`https://rambip.github.io/grist-attachment-widgets/viewer`
 
 
 ## Generate urls in Grist
 
 Ce widget génère des liens à la volée à partir de l'API Grist. Vous pouvez utiliser ces liens dans des templates HTML ou markdown par exemple.
 
-Lien à copier-coller: `https://rambip.github.io/grist-attachment-widgets/url-generator`
+Lien à copier-coller: 
+
+`https://rambip.github.io/grist-attachment-widgets/url-generator`
 
 ⚠️ Les urls générées sont temporaires. Vous ne pouvez les utiliser sur des sites externes, lisez la section suivante si c'est ce que vous voulez.
 
