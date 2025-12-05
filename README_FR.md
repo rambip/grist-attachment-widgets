@@ -29,7 +29,7 @@ Lien à copier-coller:
 `https://rambip.github.io/grist-attachment-widgets/viewer`
 
 
-## Generate urls in Grist
+## Générer des URL pour utilisation dans Grist
 
 Ce widget génère des liens à la volée à partir de l'API Grist. Vous pouvez utiliser ces liens dans des templates HTML ou markdown par exemple.
 
@@ -42,7 +42,7 @@ Lien à copier-coller:
 *Note: ce widget génère uniquement des liens pour la première pièce-jointe de la colonne*
 
 
-## Générer des URLs for utilisation externe.
+## Générer des URLs pour utilisation externe.
 
 Pas besoin de widget personnalisé pour ce cas d'usage !
 
