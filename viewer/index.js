@@ -14,6 +14,8 @@ grist.ready({
 const img = document.getElementById("img");
 const msg = document.getElementById("msg");
 
+alert(img);
+
 async function buildAttachmentUrl(attId) {
   // Short-lived, safe URL parts for the current document
   const { token, baseUrl } = await grist.docApi.getAccessToken({
@@ -23,7 +25,6 @@ async function buildAttachmentUrl(attId) {
 }
 
 function showMessage(text) {
-  img.removeAttribute("src");
   img.style.display = "none";
   msg.textContent = text;
 }
