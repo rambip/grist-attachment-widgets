@@ -50,7 +50,7 @@ If you want to use your attachments on external websites, you need to:
 1. Make your document public (otherwise other websites can't access your images)
 2. Use this formula (replace `$Attachment` by the right column name): 
 
-```
+```python
 # extract url and document ID
 url, end = SELF_HYPERLINK().split("/o/docs")
 doc_id = end.split("/")[1]

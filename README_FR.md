@@ -46,7 +46,7 @@ Il suffit de:
 1. Rendre votre document public (sinon, des sources externes ne peuvent pas accéder aux images)
 2. Utiliser cette formule (remplacer $Attachment par le bon nom de colonne)
 
-```
+```python
 # extract url and document ID
 url, end = SELF_HYPERLINK().split("/o/docs")
 doc_id = end.split("/")[1]
