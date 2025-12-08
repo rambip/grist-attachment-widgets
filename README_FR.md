@@ -1,3 +1,11 @@
+<img width="100" height="100" alt="image" align="left" src="https://github.com/user-attachments/assets/aa0d6d54-e54d-4c6d-803b-5f8667baa98e" />
+
+===============================
+
+**Fait avec 💙 chez [OpenSourcePolitics](https://opensourcepolitics.eu/)**
+
+===============================
+
 # Le problème
 
 Si vous êtes un utilisateur fréquent de Grist, vous avez probablement déjà utilisé la fonctionnalité "Pièce jointe".
